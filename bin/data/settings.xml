@@ -1,0 +1,21 @@
+<group>
+	<int_slider>0</int_slider>
+	<float_slider>33.33</float_slider>
+	<toggle>1</toggle>
+<group/>
+<1_vecX>-35</1_vecX>
+	<1_vecY>-40</1_vecY>
+	<1_vecZ>9</1_vecZ>
+	<1_depth>850</1_depth>
+	<1_speed>-2.3</1_speed>
+	<2_vecX>-3</2_vecX>
+	<2_vecY>4.99999</2_vecY>
+	<2_vecZ>0</2_vecZ>
+	<2_depth>-140</2_depth>
+	<2_speed>-1.3</2_speed>
+	<3_vecX>0</3_vecX>
+	<3_vecY>1</3_vecY>
+	<3_vecZ>0</3_vecZ>
+	<3_depth>0</3_depth>
+	<3_speed>1.9</3_speed>
+</group>
